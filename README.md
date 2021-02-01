@@ -118,7 +118,10 @@
   
 
 </details>
-
+<details>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=hgnis" alt="agamkoradiya" /> </p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hgnis&theme=black-blue" alt="nameisjayant"/>
+</details>
   
 
 [website]: https://common-apps-c8335.web.app/
